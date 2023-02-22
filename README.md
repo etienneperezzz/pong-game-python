@@ -8,6 +8,7 @@ The game is fully customizable, you can choose the color of the ball, of the rac
 
 ## How to run it ?
 This game was created under Pycharm with Python 3.10
+You have to install pygame_menu on Python with command : ```pip install pygame_menu```
 You have to change the IPadress on each file to yours
 You first need to run the server.py file and then the client_gauche and client_droit in whatever order.
 You will first arrive in a menu to customize your game and then you can launch it, the game starts when the two players have pressed launch.
